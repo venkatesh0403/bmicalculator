@@ -72,7 +72,7 @@ const BMICalculator = () => {
       </div>
 
       <footer className="mt-6 text-sm text-gray-600">
-        Copyright &copy; {new Date().getFullYear()} Dhanya K.R
+        Copyright &copy; {new Date().getFullYear()} Venkatesh S
       </footer>
     </div>
   );
